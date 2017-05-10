@@ -16,6 +16,14 @@
     <ul class="nav-list">
       {% for c in site.collections %}
         {% if c.label != 'posts' %}
+          {% assign counter = 0 %}
+          {% for p in c.docs %}
+            {% if p.status != 'hidden' %}
+              {% assign counter = counter | plus: 1 %}
+            {% endif %}
+          {% endfor %}
+          
+          {% if counter != 0 %}
           <li class="nav-group">
             <span class="nav-group-title">{{c.title}}</span>
             <ul class="nav-sublist">
@@ -23,7 +31,9 @@
               {% if p.status != 'hidden' %}
                 <li class="nav-item">
                   <a class="nav-link" href="{{ p.url | relative_url }}">
+                {% if p.icon.size %}
                     <img class="nav-link-icon" src="/assets/images/icons/{{p.icon}}" alt="" />
+                {% endif %}
                     <span class="nav-link-label" >{{p.title}}</span>
                   </a>
                 </li>
@@ -31,6 +41,7 @@
               {% endfor %}
             </ul>
           </li>
+          {% endif %}
         {% endif %}
       {% endfor %}
     </ul>

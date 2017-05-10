@@ -12,21 +12,30 @@ contentdescription:
 </header>
 {% for c in site.collections %}
   {% if c.label != 'posts' %}
+    {% assign counter = 0 %}
+    {% for p in c.docs %}
+      {% if p.status != 'hidden' %}
+        {% assign counter = counter | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+  
+    {% if counter != 0 %}
     <div class="home-category">
       <h2 class="home-category-title">{{c.title}}</h2>
       <ul class="home-nav" role="navigation">
-	{% assign sortedPages = c.docs | sort: 'sortinglabel' %}
-        {% for p in sortedPages %}
+      {% assign sortedPages = c.docs | sort: 'sortinglabel' %}
+      {% for p in sortedPages %}
         {% if p.status != 'hidden' %}
           <li>
             <a class="home-nav-link" href="{{ p.url }}">
-              <span class="home-nav-link-icon"><img src="/assets/images/icons/{{p.icon}}" alt="" /></span>
+              <span class="home-nav-link-icon">{% if p.icon.size %}<img src="/assets/images/icons/{{p.icon}}" alt="" />{% endif %}</span>
               <span class="home-nav-link-label">{{p.title}}</span>
             </a>
           </li>
         {% endif %}
-        {% endfor %}
+      {% endfor %}
       </ul>
     </div>
+    {% endif %}
   {% endif %}
 {% endfor %}
