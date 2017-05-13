@@ -7,6 +7,9 @@ sortinglabel: legi-l2
 status: hidden
 ---
 
+Edition en cours, ne pas merger svp !
+
+
 ## Date des élections
 L’élection des députés a lieu les dimanches 11 et 18 juin 2017.
 Par dérogation, le scrutin a lieu les **samedis 3 et 17 juin 2017** en Polynésie française et les **samedis 10 et 17 juin 2017 en Guadeloupe, en Guyane, en Martinique, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon.**
