@@ -16,7 +16,7 @@ Plus d'informations ici : https://github.com/roots/sage.
 
 ## Installer le thème
 
-Afin d’installer le thème « FI 2017 » dans une installation wordpress que vous avez déjà il est nécessaire d’utiliser l’extension « github-updater ». Elle vous permettra aussi de mettre à jour le thème à l’avenir.
+Afin d’installer le thème « FI 2017 » dans une installation wordpress que vous avez déjà, il est nécessaire d’utiliser l’extension « github-updater ». Elle vous permettra aussi de mettre à jour le thème à l’avenir.
 Installation de l’extension (tutoriel vidéo anglais) :
 1. Téléchargez la dernière version au format « .zip » <https://github.com/afragen/github-updater/releases/>
 2. Décompressez l’archive, renommez le dossier « github-updater » puis zippez-le à nouveau.
@@ -24,9 +24,9 @@ Installation de l’extension (tutoriel vidéo anglais) :
 4. Activez l’extension.
 
 Vous pouvez désormais installer le thème :
-1. Dans la liste de vos extensions cliquez sur « réglages » de l’extension « github-updater ». Allez dans « installer le thème ».
-2. Dans « Thème URI » copiez cette adresse : <https://github.com/insoumis-local/wordpress-template-legislatives>. Ne touchez pas au reste et cliquez sur « Installer le thème ».
-3. Dans « Thèmes » vérifiez que « FI 2017 » est activé. Si ce n’est pas le cas, activez-le. 
+1. Dans la liste de vos extensions, cliquez sur « réglages » de l’extension « github-updater ». Allez dans « installer le thème ».
+2. Dans « Thème URI », copiez cette adresse : <https://github.com/insoumis-local/wordpress-template-legislatives>. Ne touchez pas au reste et cliquez sur « Installer le thème ».
+3. Dans « Thèmes », vérifiez que « FI 2017 » est activé. Si ce n’est pas le cas, activez-le. 
 
 *En cas de problème, consultez la documentation (EN) de l’extension : <https://github.com/afragen/github-updater/wiki> avant de nous contacter.*
 
@@ -42,7 +42,7 @@ Si vous utilisez notre service d’hébergement générique, le thème sera mis 
 
 <https://github.com/insoumis-local/wordpress-template-legislatives/blob/master/README.md> 
 
-**Pour modifier l'en-tete de la page d’accueil** : Dans « Apparence > Personnaliser > FI 2017 HOME » il est possible de définir les infos de base pour afficher le cartouche d’accueil. Ce cartouche ne s’affiche que sur la page d’accueil. Vous pourrez alors choisir une image, indiquer le nom des candidat·e·s, la circonscription ainsi que les villes de la circonscription. Pour désactiver cet en-tete il suffit de décocher la case « activer l’en-tete ». 
+**Pour modifier l'en-tête de la page d’accueil** : Dans « Apparence > Personnaliser > FI 2017 HOME », il est possible de définir les infos de base pour afficher le cartouche d’accueil. Ce cartouche ne s’affiche que sur la page d’accueil. Vous pourrez alors choisir une image, indiquer le nom des candidat·e·s, la circonscription ainsi que les villes de la circonscription. Pour désactiver cette en-tête, il suffit de décocher la case « activer l’en-tête ». 
 
 Le template de contenu « Blue card only » correspond à la page d’accueil de <https://lafranceinsoumise.fr>
  
