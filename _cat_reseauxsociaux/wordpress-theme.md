@@ -6,13 +6,11 @@ icon: wordpress-theme.svg
 sortinglabel: wordpress-l2
 ---
 
-# Mettre son blog Wordpress aux couleurs de la France Insoumise
-
 ## Prérequis
 
 Si vous souhaitez utiliser le thème sur votre propre serveur, voici les prérequis :
-WordPress >= 4.7
-PHP >= 5.6.4
+- WordPress >= 4.7
+- PHP >= 5.6.4
 Plus d'informations ici : https://github.com/roots/sage. 
 
 
@@ -31,7 +29,6 @@ Vous pouvez désormais installer le thème :
 3. Dans “Thèmes” vérifier que “FI 2017” est activé. Si ce n’est pas le cas, activez-le. 
 
 *En cas de problème, consultez la documentation (EN) du plugin : <https://github.com/afragen/github-updater/wiki> avant de nous contacter.*
-
 
 ## Mises à jour
 
