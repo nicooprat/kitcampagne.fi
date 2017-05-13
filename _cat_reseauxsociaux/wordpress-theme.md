@@ -41,17 +41,17 @@ Si vous utilisez notre service d’hébergement générique, le thème sera mis 
 
 ## Créer du contenu
 
-**Pour modifier l'en-tête de la page d’accueil** : Dans « Apparence > Personnaliser > FI 2017 HOME », il est possible de définir les infos de base pour afficher le cartouche d’accueil. Ce cartouche ne s’affiche que sur la page d’accueil. Vous pourrez alors choisir une image, indiquer le nom des candidat·e·s, la circonscription ainsi que les villes de la circonscription. Pour désactiver cet en-tête, il suffit de décocher la case « activer l’en-tête ». 
+**Pour modifier l'en-tête de la page d’accueil** : Dans « Apparence > Personnaliser > FI 2017 HOME », il est possible de définir les infos de base pour afficher l'en-tête d’accueil. Cet en-tête ne s’affiche que sur la page d’accueil. Vous pourrez alors choisir une image, indiquer le nom des candidat·e·s, la circonscription ainsi que les villes de la circonscription. Pour désactiver cet en-tête, il suffit de décocher la case « activer l’en-tête ». 
 
 Le template de contenu « Blue card only » correspond à la page d’accueil de <https://lafranceinsoumise.fr>.
  
-Le template de contenu « Home » permet d’utiliser l’image mise en avant comme fond et le texte comme contenu de la barre positionnée sur l’image. Il permet donc de faire une page d’accueil différente du modèle fourni par le cartouche.
+Le template de contenu « Home » permet d’utiliser l’image mise en avant comme fond et le texte comme contenu de la barre positionnée sur l’image. Il permet donc de faire une page d’accueil différente du modèle fourni par l'en-tête.
 
 Il y a trois zones pouvant accueillir des *widgets* :
 
 - **Sidebar** : la barre latérale droite sur les pages qui en disposent.
-- **Pre Footer** : la zone bleue en base de page avant le footer.
-- **Pied de page** : le footer tout en bas de page.
+- **Pre Footer** : la zone bleue en bas de page avant le pied de page.
+- **Pied de page** : la zone tout en bas de page.
 
 Il y a quatre zones pouvant accueillir des menus :
 
