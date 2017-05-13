@@ -42,7 +42,7 @@ Si vous utilisez notre service d’hébergement générique, le thème sera mis 
 
 <https://github.com/insoumis-local/wordpress-template-legislatives/blob/master/README.md> 
 
-**Pour modifier l'en-tête de la page d’accueil** : Dans « Apparence > Personnaliser > FI 2017 HOME », il est possible de définir les infos de base pour afficher le cartouche d’accueil. Ce cartouche ne s’affiche que sur la page d’accueil. Vous pourrez alors choisir une image, indiquer le nom des candidat·e·s, la circonscription ainsi que les villes de la circonscription. Pour désactiver cette en-tête, il suffit de décocher la case « activer l’en-tête ». 
+**Pour modifier l'en-tête de la page d’accueil** : Dans « Apparence > Personnaliser > FI 2017 HOME », il est possible de définir les infos de base pour afficher le cartouche d’accueil. Ce cartouche ne s’affiche que sur la page d’accueil. Vous pourrez alors choisir une image, indiquer le nom des candidat·e·s, la circonscription ainsi que les villes de la circonscription. Pour désactiver cet en-tête, il suffit de décocher la case « activer l’en-tête ». 
 
 Le template de contenu « Blue card only » correspond à la page d’accueil de <https://lafranceinsoumise.fr>
  
