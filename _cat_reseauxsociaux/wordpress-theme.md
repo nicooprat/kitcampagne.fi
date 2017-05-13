@@ -9,6 +9,7 @@ sortinglabel: wordpress-l2
 ## Prérequis
 
 Si vous souhaitez utiliser le thème sur votre propre serveur, voici les prérequis :
+
 - WordPress >= 4.7
 - PHP >= 5.6.4
 
@@ -19,12 +20,14 @@ Plus d'informations ici : <https://github.com/roots/sage>.
 
 Afin d’installer le thème « FI 2017 » dans une installation WordPress que vous avez déjà, il est nécessaire d’utiliser l’extension « github-updater ». Elle vous permettra aussi de mettre à jour le thème à l’avenir.
 Installation de l’extension (tutoriel vidéo anglais) :
+
 1. Téléchargez la dernière version au format « .zip » <https://github.com/afragen/github-updater/releases/>
 2. Décompressez l’archive, renommez le dossier « github-updater » puis zippez-le à nouveau.
 3. Rendez-vous dans  « Extensions > Ajouter », puis « Mettre une extension en ligne ». Sélectionnez l’archive .zip, puis cliquez sur installer.
 4. Activez l’extension.
 
 Vous pouvez désormais installer le thème :
+
 1. Dans la liste de vos extensions, cliquez sur « réglages » de l’extension « github-updater ». Allez dans « installer le thème ».
 2. Dans « Thème URI », copiez cette adresse : <https://github.com/insoumis-local/wordpress-template-legislatives>. Ne touchez pas au reste et cliquez sur « Installer le thème ».
 3. Dans « Thèmes », vérifiez que « FI 2017 » est activé. Si ce n’est pas le cas, activez-le. 
