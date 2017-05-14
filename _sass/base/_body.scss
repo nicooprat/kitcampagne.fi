@@ -1,12 +1,20 @@
 body {
-	min-height: 100vw;
+	min-height: 100vh;
 	width: auto;
-	background: url("../images/bg.jpg");
-  background-color: #ccc;
-	background-attachment: fixed;
-	background-size: cover;
+  background: #ccc;
 	position: relative;
   padding: 3.5rem 1rem;
 	margin: 0;
   color: $color-text;
+}
+
+.body-bg {
+  background: url("../images/bg.jpg");
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
 }
