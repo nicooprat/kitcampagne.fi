@@ -52,14 +52,14 @@ Le template de contenu « Home » permet d’utiliser l’image mise en avant co
 
 Il y a trois zones pouvant accueillir des *widgets* :
 
-- **Sidebar** : la barre latérale droite sur les pages qui en disposent.
-- **Pre Footer** : la zone bleue en bas de page avant le pied de page.
+- **Barre latérale** : la barre latérale droite sur les pages qui en disposent.
+- **Zone bleue avant le pied de page** : la zone bleue en bas de page avant le pied de page.
 - **Pied de page** : la zone tout en bas de page.
 
 Il y a quatre zones pouvant accueillir des menus :
 
-- **Navigation Primaire** : barre blanche à droite du logo sur toutes les pages.
-- **Secondary Navigation** : barre orange sous la « Navigation Primaire ».
-- **Blue card only Left Nav** : espace à gauche de la zone bleue sur le template « Blue card only ».
-- **Blue card only Right Nav** : espace à droite de la zone bleue sur le template « Blue card only ».
+- **Menu blanc** : barre blanche à droite du logo sur toutes les pages.
+- **Menu rouge** : barre orange sous la « Navigation Primaire ».
+- **Zone bleue uniquement - Gauche** : espace à gauche de la zone bleue sur le template « Zone bleue uniquement ».
+- **Zone bleue uniquement - Droite** : espace à droite de la zone bleue sur le template « Zone bleue uniquement ».
 
