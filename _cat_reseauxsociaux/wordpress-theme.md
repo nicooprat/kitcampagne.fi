@@ -4,42 +4,48 @@ title: Mettre son blog Wordpress aux couleurs de la France Insoumise
 contentdescription:
 icon: wordpress-theme.svg
 sortinglabel: wordpress-l2
----
-
-## Prérequis
-
-Si vous souhaitez utiliser le thème sur votre propre serveur, voici les prérequis :
-
-- WordPress >= 4.7
-- PHP >= 5.6.4
-
-Plus d'informations ici : <https://github.com/roots/sage>. 
+--- 
 
 
 ## Installer le thème
 
 Afin d’installer le thème « FI 2017 » dans une installation WordPress que vous avez déjà, il est nécessaire d’utiliser l’extension « github-updater ». Elle vous permettra aussi de mettre à jour le thème à l’avenir.
-Installation de l’extension (tutoriel vidéo anglais) :
 
-1. Téléchargez la dernière version au format « .zip » <https://github.com/afragen/github-updater/releases/>
-2. Décompressez l’archive, renommez le dossier « github-updater » puis zippez-le à nouveau.
-3. Rendez-vous dans  « Extensions > Ajouter », puis « Mettre une extension en ligne ». Sélectionnez l’archive .zip, puis cliquez sur installer.
-4. Activez l’extension.
+### Installation de l’extension
 
-Vous pouvez désormais installer le thème :
+![image](/assets/images/screenshots/wp-zip.jpg)
 
-1. Dans la liste de vos extensions, cliquez sur « réglages » de l’extension « github-updater ». Allez dans « installer le thème ».
-2. Dans « Thème URI », copiez cette adresse : <https://github.com/insoumis-local/wordpress-template-legislatives>. Ne touchez pas au reste et cliquez sur « Installer le thème ».
-3. Dans « Thèmes », vérifiez que « FI 2017 » est activé. Si ce n’est pas le cas, activez-le. 
+Téléchargez l'archive de l'extension au format « .zip » <https://framadrop.org/r/kE-TNj8aZO#NS5tMI2qqpCkkj0xyVkeZrpRV6uPYb9bm8rrsyQppvE=>
 
-*En cas de problème, consultez la documentation (EN) de l’extension : <https://github.com/afragen/github-updater/wiki> avant de nous contacter.*
+![image](/assets/images/screenshots/wp-upload.jpg)
 
-## Mises à jour
+![image](/assets/images/screenshots/wp-choose.jpg)
 
-![Mise à jour du thème](/assets/images/screenshots/majtheme.png)
+Rendez-vous dans  « Extensions > Ajouter », puis « Mettre une extension en ligne ». Sélectionnez l’archive .zip, puis cliquez sur installer.
 
-Se rendre dans « Apparence > Thèmes » et cliquer sur « Mettre à jour automatiquement ». WordPress est censé vous notifier lors de la disponibilité d’une mise à jour. Si ce n'est pas le cas, vous pouvez vous rendre dans « Réglages > GitHub Updater » et cliquer sur « Actualiser le cache », puis revenir dans « Apparence > Thèmes ». La notification devrait apparaître. En cas de doute, vérifiez que le numéro de version corresponde à celui indiqué ici : <https://github.com/insoumis-local/wordpress-template-legislatives/blob/master/style.css>. 
-Si vous utilisez notre service d’hébergement générique, le thème sera mis à jour automatiquement par nos soins (indisponible pour le moment).
+![image](/assets/images/screenshots/wp-activate.jpg)
+
+Activez l’extension. *En cas de problème, consultez la [documentation (EN) de l’extension](https://github.com/afragen/github-updater/wiki) avant de nous contacter.*
+
+### Installation du thème
+
+![image](/assets/images/screenshots/wp-install.jpg)
+
+Dans la liste de vos extensions, cliquez sur « réglages » de l’extension « github-updater ». Allez dans « installer le thème ». Dans « Thème URI », copiez cette adresse : <https://github.com/insoumis-local/wordpress-template-legislatives>. Ne touchez pas au reste et cliquez sur « Installer le thème ».
+
+![image](/assets/images/screenshots/wp-theme.jpg)
+
+Dans « Apparence > Thème », activez le thème « FI 2017 ».
+
+### Mises à jour du thème
+
+![Mise à jour du thème](/assets/images/screenshots/wp-majtheme.png)
+
+Se rendre dans « Apparence > Thèmes » et cliquer sur « Mettre à jour automatiquement ».
+
+WordPress est censé vous notifier lors de la disponibilité d’une mise à jour. Si ce n'est pas le cas, vous pouvez vous rendre dans « Réglages > GitHub Updater » et cliquer sur « Actualiser le cache », puis revenir dans « Apparence > Thèmes ». La notification devrait apparaître. En cas de doute, vérifiez que le numéro de version corresponde à celui indiqué ici : <https://github.com/insoumis-local/wordpress-template-legislatives/blob/master/style.css>. 
+
+*Si vous utilisez notre service d’hébergement générique, le thème sera mis à jour automatiquement par nos soins (indisponible pour le moment).*
 
 
 ## Créer du contenu
@@ -62,4 +68,3 @@ Il y a quatre zones pouvant accueillir des menus :
 - **Menu rouge** : barre orange sous la « Navigation Primaire ».
 - **Zone bleue uniquement - Gauche** : espace à gauche de la zone bleue sur le template « Zone bleue uniquement ».
 - **Zone bleue uniquement - Droite** : espace à droite de la zone bleue sur le template « Zone bleue uniquement ».
-
