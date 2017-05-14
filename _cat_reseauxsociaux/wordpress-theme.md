@@ -4,16 +4,7 @@ title: Mettre son blog Wordpress aux couleurs de la France Insoumise
 contentdescription:
 icon: wordpress-theme.svg
 sortinglabel: wordpress-l2
----
-
-## Prérequis
-
-Si vous souhaitez utiliser le thème sur votre propre serveur, voici les prérequis :
-
-- WordPress >= 4.7
-- PHP >= 5.6.4
-
-Plus d'informations ici : <https://github.com/roots/sage>. 
+--- 
 
 
 ## Installer le thème
@@ -21,16 +12,15 @@ Plus d'informations ici : <https://github.com/roots/sage>.
 Afin d’installer le thème « FI 2017 » dans une installation WordPress que vous avez déjà, il est nécessaire d’utiliser l’extension « github-updater ». Elle vous permettra aussi de mettre à jour le thème à l’avenir.
 Installation de l’extension (tutoriel vidéo anglais) :
 
-1. Téléchargez la dernière version au format « .zip » <https://github.com/afragen/github-updater/releases/>
-2. Décompressez l’archive, renommez le dossier « github-updater » puis zippez-le à nouveau.
-3. Rendez-vous dans  « Extensions > Ajouter », puis « Mettre une extension en ligne ». Sélectionnez l’archive .zip, puis cliquez sur installer.
-4. Activez l’extension.
+1. Téléchargez la dernière version au format « .zip » <https://framadrop.org/r/kE-TNj8aZO#NS5tMI2qqpCkkj0xyVkeZrpRV6uPYb9bm8rrsyQppvE=> ([image](https://framapic.org/JjPGesvqQfcp/YaB6aqLP6j4m.jpg))
+2. Rendez-vous dans  « Extensions > Ajouter », puis « Mettre une extension en ligne ». Sélectionnez l’archive .zip, puis cliquez sur installer. ([image 1](https://framapic.org/D2R9bCMWTNTM/SYbuoVxBS5jM.jpg) [image 2](https://framapic.org/9pFQL3W2CLPK/lh8b1J2tRKap.jpg))
+3. Activez l’extension. ([image](https://framapic.org/DP57v0lwVJZu/5HZkCkIBDNmb.jpg))
 
 Vous pouvez désormais installer le thème :
 
 1. Dans la liste de vos extensions, cliquez sur « réglages » de l’extension « github-updater ». Allez dans « installer le thème ».
-2. Dans « Thème URI », copiez cette adresse : <https://github.com/insoumis-local/wordpress-template-legislatives>. Ne touchez pas au reste et cliquez sur « Installer le thème ».
-3. Dans « Thèmes », vérifiez que « FI 2017 » est activé. Si ce n’est pas le cas, activez-le. 
+2. Dans « Thème URI », copiez cette adresse : <https://github.com/insoumis-local/wordpress-template-legislatives>. Ne touchez pas au reste et cliquez sur « Installer le thème ». ([image](https://framapic.org/NZm5mXfuCJzV/efI7zFSUOiNR.jpg))
+3. Dans « Thèmes », vérifiez que « FI 2017 » est activé. Si ce n’est pas le cas, activez-le. ([image](https://framapic.org/V63snlddvaBT/38mcJY7oLCgy.jpg))
 
 *En cas de problème, consultez la documentation (EN) de l’extension : <https://github.com/afragen/github-updater/wiki> avant de nous contacter.*
 
