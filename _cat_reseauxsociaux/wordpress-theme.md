@@ -13,35 +13,35 @@ Afin d’installer le thème « FI 2017 » dans une installation WordPress que v
 
 ### Installation de l’extension
 
+Téléchargez l’archive de l'extension au format « .zip » <https://framadrop.org/r/kE-TNj8aZO#NS5tMI2qqpCkkj0xyVkeZrpRV6uPYb9bm8rrsyQppvE=>
+
 ![image](/assets/images/screenshots/wp-zip.jpg)
 
-Téléchargez l'archive de l'extension au format « .zip » <https://framadrop.org/r/kE-TNj8aZO#NS5tMI2qqpCkkj0xyVkeZrpRV6uPYb9bm8rrsyQppvE=>
+Rendez-vous dans  « Extensions > Ajouter », puis « Mettre une extension en ligne ». Sélectionnez l’archive .zip, puis cliquez sur installer.
 
 ![image](/assets/images/screenshots/wp-upload.jpg)
 
 ![image](/assets/images/screenshots/wp-choose.jpg)
 
-Rendez-vous dans  « Extensions > Ajouter », puis « Mettre une extension en ligne ». Sélectionnez l’archive .zip, puis cliquez sur installer.
+Activez l’extension. *En cas de problème, consultez la [documentation de l’extension (EN)](https://github.com/afragen/github-updater/wiki) avant de nous contacter.*
 
 ![image](/assets/images/screenshots/wp-activate.jpg)
 
-Activez l’extension. *En cas de problème, consultez la [documentation (EN) de l’extension](https://github.com/afragen/github-updater/wiki) avant de nous contacter.*
-
 ### Installation du thème
-
-![image](/assets/images/screenshots/wp-install.jpg)
 
 Dans la liste de vos extensions, cliquez sur « réglages » de l’extension « github-updater ». Allez dans « installer le thème ». Dans « Thème URI », copiez cette adresse : <https://github.com/insoumis-local/wordpress-template-legislatives>. Ne touchez pas au reste et cliquez sur « Installer le thème ».
 
-![image](/assets/images/screenshots/wp-theme.jpg)
+![image](/assets/images/screenshots/wp-install.jpg)
 
 Dans « Apparence > Thème », activez le thème « FI 2017 ».
 
+![image](/assets/images/screenshots/wp-theme.jpg)
+
 ### Mises à jour du thème
 
-![Mise à jour du thème](/assets/images/screenshots/wp-majtheme.png)
-
 Se rendre dans « Apparence > Thèmes » et cliquer sur « Mettre à jour automatiquement ».
+
+![Mise à jour du thème](/assets/images/screenshots/wp-majtheme.png)
 
 WordPress est censé vous notifier lors de la disponibilité d’une mise à jour. Si ce n'est pas le cas, vous pouvez vous rendre dans « Réglages > GitHub Updater » et cliquer sur « Actualiser le cache », puis revenir dans « Apparence > Thèmes ». La notification devrait apparaître. En cas de doute, vérifiez que le numéro de version corresponde à celui indiqué ici : <https://github.com/insoumis-local/wordpress-template-legislatives/blob/master/style.css>. 
 
